@@ -28,19 +28,6 @@ To create a reference hub for fundamental ML concepts 🧑‍💻
 
 To help others who are starting their ML journey 🌍
 
-🚀 How to Use
-
-Clone this repository
-
-git clone https://github.com/your-username/machine-learning-repo.git
-
-
-Navigate to the project folder
-
-Run .ipynb notebooks or .py scripts
-
-Explore datasets, run models, and learn interactively
-
 📌 Future Plans
 
 Add more ML algorithms (Regression, Classification, Clustering, SVMs)
