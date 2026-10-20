@@ -36,6 +36,3 @@ Experiment with Deep Learning basics (TensorFlow/PyTorch)
 
 Build end-to-end ML projects
 
-🤝 Contributions
-
-This repo is primarily my personal learning space, but suggestions and improvements are always welcome!
